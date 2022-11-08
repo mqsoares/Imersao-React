@@ -69,7 +69,7 @@ function TimeLine(props){
                         <div>
                             {videos.map((video)=> {
                                 return (
-                                    <a href={video.url}>
+                                    <a href={video.url} target="_blank">
                                         <img src={video.thumb}></img>
                                         <span>
                                             {video.title}

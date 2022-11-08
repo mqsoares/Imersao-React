@@ -4,54 +4,167 @@
     "github": "mqsoares",
     "banner": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "playlists": {
-        "jogos": [
+        "Blues Black Home": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "001 - Propaganda - Cover",
+                "url": "https://www.youtube.com/watch?v=N9tkTeWnAWk",
+                "thumb": "https://img.youtube.com/vi/N9tkTeWnAWk/hqdefault.jpg"
             },
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
-            }
-        ],
-        "front-end": [
-            {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+                "title": "002 - Ao Vivo e a Cores - Cover",
+                "url": "https://www.youtube.com/watch?v=tAp3jdTYJI4",
+                "thumb": "https://img.youtube.com/vi/tAp3jdTYJI4/hqdefault.jpg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
-            }
-        ],
-        "HTML": [
-            {
-                "title": "video 01",
-                "url": "url",
-                "thumb": "thumbnail do video"
+                "title": "003 - Um Sonhador - Cover",
+                "url": "https://www.youtube.com/watch?v=XdQL7rrMK8Y",
+                "thumb": "https://img.youtube.com/vi/XdQL7rrMK8Y/hqdefault.jpg"
             },
             {
-                "title": "video 02",
-                "url": "url",
-                "thumb": "thumbnail do video"
+                "title": "004 - Improvised Jam Session",
+                "url": "https://www.youtube.com/watch?v=G7x-VeRPbeE",
+                "thumb": "https://img.youtube.com/vi/G7x-VeRPbeE/hqdefault.jpg"
+            },
+            {
+                "title": "005 - Desencana - Cover",
+                "url": "https://www.youtube.com/watch?v=lnbziyBsEEU",
+                "thumb": "https://img.youtube.com/vi/lnbziyBsEEU/hqdefault.jpg"
+            },
+            {
+                "title": "006 - Hey",
+                "url": "https://www.youtube.com/watch?v=2InQFGGmRY8",
+                "thumb": "https://img.youtube.com/vi/2InQFGGmRY8/hqdefault.jpg"
+            },
+            {
+                "title": "007 - Oi",
+                "url": "https://www.youtube.com/watch?v=WxJCdsNMJDs",
+                "thumb": "https://img.youtube.com/vi/WxJCdsNMJDs/hqdefault.jpg"
+            },
+            {
+                "title": "008 - Pais e Filhos",
+                "url": "https://www.youtube.com/watch?v=ZQNpig1c3uw",
+                "thumb": "https://img.youtube.com/vi/ZQNpig1c3uw/hqdefault.jpg"
+            },
+            {
+                "title": "009 - Não Deixe pra Depois",
+                "url": "https://www.youtube.com/watch?v=_hhaBwRmoLE",
+                "thumb": "https://img.youtube.com/vi/_hhaBwRmoLE/hqdefault.jpg"
+            },
+            {
+                "title": "010 - Ela partiu / Ain't No Sunshine",
+                "url": "https://www.youtube.com/watch?v=zmrguBeY1ZE",
+                "thumb": "https://img.youtube.com/vi/zmrguBeY1ZE/hqdefault.jpg"
+            },
+            {
+                "title": "011 - Sol",
+                "url": "https://www.youtube.com/watch?v=Wk-CP888IXA",
+                "thumb": "https://img.youtube.com/vi/Wk-CP888IXA/hqdefault.jpg"
+            },
+            {
+                "title": "012 - Tempos Modernos",
+                "url": "https://www.youtube.com/watch?v=EWMA9m3N9lM",
+                "thumb": "https://img.youtube.com/vi/EWMA9m3N9lM/hqdefault.jpg"
             }
         ],
-        "CSS": [
+        "Daniel Silveira - Sala do Goove I": [
             {
-                "title": "video 03",
-                "url": "url",
-                "thumb": "thumbnail do video"
+                "title": "001 - 31 De Dezembro",
+                "url": "https://www.youtube.com/watch?v=HDvudE37rIM",
+                "thumb": "https://img.youtube.com/vi/HDvudE37rIM/hqdefault.jpg"
+            },
+            {
+                "title": "002 - Menos Mimimi",
+                "url": "https://www.youtube.com/watch?v=HngeSHHiT_U",
+                "thumb": "https://img.youtube.com/vi/HngeSHHiT_U/hqdefault.jpg"
+            },
+            {
+                "title": "003 - Você Me Vira a Cabeça",
+                "url": "https://www.youtube.com/watch?v=T8JYtT3alMo",
+                "thumb": "https://img.youtube.com/vi/T8JYtT3alMo/hqdefault.jpg"
+            },
+            {
+                "title": "004 - É Perna Pra Quem Tem",
+                "url": "https://www.youtube.com/watch?v=LduXWxVnRZQ",
+                "thumb": "https://img.youtube.com/vi/LduXWxVnRZQ/hqdefault.jpg"
+            },
+            {
+                "title": "005 - Fim De Tarde",
+                "url": "https://www.youtube.com/watch?v=wCCtGxGBSP0",
+                "thumb": "https://img.youtube.com/vi/wCCtGxGBSP0/hqdefault.jpg"
+            },
+            {
+                "title": "006 - Os Amantes",
+                "url": "https://www.youtube.com/watch?v=xxUu_QmMD0c",
+                "thumb": "https://img.youtube.com/vi/xxUu_QmMD0c/hqdefault.jpg"
+            },
+            {
+                "title": "007 - Onde Anda Você",
+                "url": "https://www.youtube.com/watch?v=3K6Wi-fvzw0",
+                "thumb": "https://img.youtube.com/vi/3K6Wi-fvzw0/hqdefault.jpg"
             }
         ],
-        "JavaScript": [
+        "Daniel Silveira - Sala do Goove II": [
             {
-                "title": "video 04",
-                "url": "url",
-                "thumb": "thumbnail do video"
+                "title": "001 - Em Nome da Justiça",
+                "url": "https://youtube.com/watch?v=0RQ62tRYMp4",
+                "thumb": "https://img.youtube.com/vi/0RQ62tRYMp4/hqdefault.jpg"
+            },
+            {
+                "title": "002 - Interfone",
+                "url": "https://www.youtube.com/watch?v=KaSosKk5NVA",
+                "thumb": "https://img.youtube.com/vi/KaSosKk5NVA/hqdefault.jpg"
+            },
+            {
+                "title": "003 - Meu bem Querer",
+                "url": "https://www.youtube.com/watch?v=6MLlXGH9PG4",
+                "thumb": "https://img.youtube.com/vi/6MLlXGH9PG4/hqdefault.jpg"
+            },
+            {
+                "title": "004 - Rio Amazonas",
+                "url": "https://www.youtube.com/watch?v=2bj3xmaZTNk",
+                "thumb": "https://img.youtube.com/vi/2bj3xmaZTNk/hqdefault.jpg"
+            },
+            {
+                "title": "005 - Linda",
+                "url": "https://www.youtube.com/watch?v=IVpNu9gpuV4",
+                "thumb": "https://img.youtube.com/vi/IVpNu9gpuV4/hqdefault.jpg"
+            },
+            {
+                "title": "006 - A Primeira Vista",
+                "url": "https://www.youtube.com/watch?v=t0U54GJx2hU",
+                "thumb": "https://img.youtube.com/vi/t0U54GJx2hU/hqdefault.jpg"
+            },
+            {
+                "title": "007 - Quarta Cadeira",
+                "url": "https://www.youtube.com/watch?v=y5zdI01BJl4",
+                "thumb": "https://img.youtube.com/vi/y5zdI01BJl4/hqdefault.jpg"
+            },
+            {
+                "title": "008 - Brilho no Olhar",
+                "url": "https://www.youtube.com/watch?v=oFdrwQ2WglY",
+                "thumb": "https://img.youtube.com/vi/oFdrwQ2WglY/hqdefault.jpg"
+            },
+            {
+                "title": "009 - Minha História",
+                "url": "https://www.youtube.com/watch?v=jSyx6TtuTqk",
+                "thumb": "https://img.youtube.com/vi/jSyx6TtuTqk/hqdefault.jpg"
+            }
+        ],
+        "Daniel Silveira - Sala do Goove III": [
+            {
+                "title": "001 - Hackearam-Me",
+                "url": "https://www.youtube.com/watch?v=FD-tm9_4oZI",
+                "thumb": "https://img.youtube.com/vi/FD-tm9_4oZI/hqdefault.jpg"
+            },
+            {
+                "title": "002 - Me faz viver",
+                "url": "https://www.youtube.com/watch?v=7ggYr-gwpbI",
+                "thumb": "https://img.youtube.com/vi/7ggYr-gwpbI/hqdefault.jpg"
+            },
+            {
+                "title": "003 - Bijuteria",
+                "url": "https://www.youtube.com/watch?v=QoaRkhsTCzk",
+                "thumb": "https://img.youtube.com/vi/QoaRkhsTCzk/hqdefault.jpg"
             }
         ]
     }
